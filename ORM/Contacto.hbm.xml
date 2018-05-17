@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="ORM" namespace="ORM.Entities">
+<class name="Contacto" table="contacto">
+	<id name="Codigo" column ="cod_con" type="int" unsaved-value="0">
+		<generator class="native">
+        	<param name="sequence">contacto_sequence</param>
+      	</generator>
+	</id>
+	<property name="Descripcion" column="nombre" type="string"/>
+	<bag name="Email" cascade="all-delete-orphan">
+		<key column="remitente" />
+		<one-to-many class="ORM.Entities.Email"/>
+	</bag>
+	
+	<bag name="Email" table="exc" cascade="all-delete-orphan"  lazy="true">
+	  <key column="cod_contacto"/>
+	  <many-to-many class="ORM.Entities.Email" column="codigo_email" />
+	</bag>
+	
+	</class>
+</hibernate-mapping>

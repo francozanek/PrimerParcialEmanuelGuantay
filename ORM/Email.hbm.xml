@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="ORM" namespace="ORM.Entities">
+<class name="Email" table="email">
+	<id name="Codigo" column ="cod_email" type="int" unsaved-value="0">
+		<generator class="native">
+        	<param name="sequence">email_sequence</param>
+      	</generator>
+	</id>
+	<property name="Estado" column="estado" not-null="false" type="string"/>
+	<property name="Fecha" column="fecha" not-null="false" type="date"/>
+	<many-to-one name="Contacto" class="Contacto" column="remitente" unique="true" />
+	
+	<bag name="Contacto" table="exc" cascade="all-delete-orphan"  lazy="true">
+	  <key column="cod_email"/>
+	  <many-to-many class="ORM.Entities.Contacto" column="cod_contacto" />
+	</bag>
+</class>
+</hibernate-mapping>

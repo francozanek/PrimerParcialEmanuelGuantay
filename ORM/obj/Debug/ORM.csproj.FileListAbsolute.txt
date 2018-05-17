@@ -1,0 +1,84 @@
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\ORM.exe.config
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\ORM.exe
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\ORM.pdb
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\Castle.Core.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\EntityFramework.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\Iesi.Collections.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\NHibernate.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\Npgsql.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\Npgsql.EntityFramework.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\Mono.Security.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\EntityFramework.xml
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\Iesi.Collections.xml
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\NHibernate.xml
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\Npgsql.xml
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\Npgsql.EntityFramework.xml
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\de\Npgsql.resources.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\es\Npgsql.resources.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\obj\Debug\ORM.exe
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\obj\Debug\ORM.pdb
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\franc\Documents\SharpDevelop Projects\ORM\ORM\bin\Debug\hibernate.cfg.xml
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\hibernate.cfg.xml
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\ORM.exe.config
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\ORM.exe
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\ORM.pdb
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\Castle.Core.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\EntityFramework.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\Iesi.Collections.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\NHibernate.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\Npgsql.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\Npgsql.EntityFramework.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\Mono.Security.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\EntityFramework.xml
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\Iesi.Collections.xml
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\NHibernate.xml
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\Npgsql.xml
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\Npgsql.EntityFramework.xml
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\obj\Debug\ORM.exe
+C:\Users\Franco\Dropbox\OptativaNet\Optativa II (tercer año)\ORM\ORM\obj\Debug\ORM.pdb
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\hibernate.cfg.xml
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\ORM.exe.config
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\ORM.exe
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\ORM.pdb
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\Castle.Core.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\Iesi.Collections.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\NHibernate.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\Npgsql.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\Npgsql.EntityFramework.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\Mono.Security.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\Iesi.Collections.xml
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\NHibernate.xml
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\Npgsql.xml
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\Npgsql.EntityFramework.xml
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\de\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\es\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\obj\Debug\ORM.exe
+C:\Users\usuario\Desktop\Ema\C#\BD\ORM\ORM\obj\Debug\ORM.pdb

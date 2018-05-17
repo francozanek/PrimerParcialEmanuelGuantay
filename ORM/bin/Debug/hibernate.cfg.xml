@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration xmlns="urn:nhibernate-configuration-2.2">
+	<session-factory name="HibernateSession">
+		<property name="dialect">NHibernate.Dialect.PostgreSQLDialect</property>
+        <property name="connection.driver_class">NHibernate.Driver.NpgsqlDriver</property>
+        <property name="connection.connection_string">Server=localhost;Port=5432;Database=vete;User ID=postgres;Password=1234</property>
+		<mapping assembly="ORM" />
+	</session-factory>
+</hibernate-configuration>
